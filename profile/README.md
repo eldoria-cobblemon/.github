@@ -22,6 +22,9 @@
 
 Na primeira instalação o Windows pode mostrar "O Windows protegeu o computador": clique em **Mais informações** e em **Executar assim mesmo**.
 
+**Tenho Minecraft original, muda alguma coisa?** Não. Em Eldoria todo mundo entra do mesmo jeito: escolha o nick no
+launcher e use `/register` e `/login`. Quer a sua skin? Na aba **Skin** do launcher, escolha o arquivo PNG dela.
+
 ### O que tem em Eldoria
 
 - Mundo aberto com vilas, ruínas e lugares abandonados cheios de memória
